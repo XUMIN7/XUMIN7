@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm XUMIN</h1>
 <h3 align="center">I'm just jumping around</h3>
 
-- ⚡ Fun fact **No life** <br>
-- 🫡 I like **FOSS**
+- ❤️**FOSS**  🫡
 <p align="left">
 </p>
 
