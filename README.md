@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm XUMIN</h1>
 <h3 align="center">I'm just jumping around</h3>
-- I do Nothing btw</br>
 - ❤️ FOSS 🫡
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools I have touched:</h3>
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  
